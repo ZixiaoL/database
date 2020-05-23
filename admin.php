@@ -77,7 +77,7 @@ echo "</form>";
 ?> 
 
 <script
-src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAjht3ppsxR64L38EOzfU83qjTy6XBVfHk&sensor=false">
+src="http://maps.googleapis.com/maps/api/js?key=###################&sensor=false">//use your own google map api key here
 </script>
 
 <script>
